@@ -10,7 +10,7 @@ $('.scroll').on('click',function(e){
     e.preventDefault();
     $('html,body').animate({
         scrollTop:$($(this).attr('href')).offset().top + 'px'
-    },1000,'swing');
+    },1000,'swing'); 
 });
 
 // if we have anchor on the url (calling from other page)
