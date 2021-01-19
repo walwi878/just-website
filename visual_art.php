@@ -21,68 +21,68 @@
                       <br><br></p>
                       <!-- <input type="image" src="doodles/IMG_20210111_200313.jpg" class="img-responsive" width="250px"  onclick="location.href='code.php';" /> -->
                       <!-- <img id="myImg" src="doodles/IMG_20210111_200313.jpg" alt="This is a test." width="250px"/>  -->
-                        <div class="column"><img src="doodles/IMG_20210111_200338.jpg" width="250px" onclick="openModal();currentSlide(1)"  class="hover-shadow"></div>                        
-                        <div class="column"><img src="doodles/IMG_20210111_200404.jpg" width="250px" onclick="openModal();currentSlide(2)"  class="hover-shadow"></div>                        
-                        <div class="column"><img src="doodles/IMG_20210111_200421.jpg" width="250px" onclick="openModal();currentSlide(3)"  class="hover-shadow"></div>                       
-                        <div class="column"><img src="doodles/IMG_20210111_200444.jpg" width="250px" onclick="openModal();currentSlide(4)"  class="hover-shadow"></div>                        
-                        <div class="column"><img src="doodles/IMG_20210111_201013.jpg" width="250px" onclick="openModal();currentSlide(5)"  class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_200506.jpg" width="250px" onclick="openModal();currentSlide(6)"  class="hover-shadow"></div>                        
-                        <div class="column"><img src="doodles/IMG_20210111_200718.jpg" width="250px" onclick="openModal();currentSlide(7)"  class="hover-shadow"></div>                       
-                        <div class="column"><img src="doodles/IMG_20210111_200743.jpg" width="250px" onclick="openModal();currentSlide(8)"  class="hover-shadow"></div>                       
-                        <div class="column"><img src="doodles/IMG_20210111_200752.jpg" width="250px" onclick="openModal();currentSlide(9)"  class="hover-shadow"></div>                        
-                        <div class="column"><img src="doodles/IMG_20210111_200809.jpg" width="250px" onclick="openModal();currentSlide(10)" class="hover-shadow"></div>                        
-                        <div class="column"><img src="doodles/IMG_20210111_200830.jpg" width="250px" onclick="openModal();currentSlide(11)" class="hover-shadow"></div>                        
-                        <div class="column"><img src="doodles/IMG_20210111_200852.jpg" width="250px" onclick="openModal();currentSlide(12)" class="hover-shadow"></div>                       
-                        <div class="column"><img src="doodles/IMG_20210111_200959.jpg" width="250px" onclick="openModal();currentSlide(13)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201026.jpg" width="250px" onclick="openModal();currentSlide(14)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201039.jpg" width="250px" onclick="openModal();currentSlide(15)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201051.jpg" width="250px" onclick="openModal();currentSlide(16)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201132.jpg" width="250px" onclick="openModal();currentSlide(17)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201233.jpg" width="250px" onclick="openModal();currentSlide(18)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201315.jpg" width="250px" onclick="openModal();currentSlide(19)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201327.jpg" width="250px" onclick="openModal();currentSlide(20)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201341.jpg" width="250px" onclick="openModal();currentSlide(21)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201403.jpg" width="250px" onclick="openModal();currentSlide(22)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201556.jpg" width="250px" onclick="openModal();currentSlide(23)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201621.jpg" width="250px" onclick="openModal();currentSlide(24)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201636.jpg" width="250px" onclick="openModal();currentSlide(25)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201649.jpg" width="250px" onclick="openModal();currentSlide(26)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201716.jpg" width="250px" onclick="openModal();currentSlide(27)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_201851.jpg" width="250px" onclick="openModal();currentSlide(28)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202036.jpg" width="250px" onclick="openModal();currentSlide(29)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202110.jpg" width="250px" onclick="openModal();currentSlide(30)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202136.jpg" width="250px" onclick="openModal();currentSlide(31)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202227.jpg" width="250px" onclick="openModal();currentSlide(32)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202158.jpg" width="250px" onclick="openModal();currentSlide(33)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202250.jpg" width="250px" onclick="openModal();currentSlide(34)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202333.jpg" width="250px" onclick="openModal();currentSlide(35)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202350.jpg" width="250px" onclick="openModal();currentSlide(36)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202415.jpg" width="250px" onclick="openModal();currentSlide(37)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202437.jpg" width="250px" onclick="openModal();currentSlide(38)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202459.jpg" width="250px" onclick="openModal();currentSlide(39)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202524.jpg" width="250px" onclick="openModal();currentSlide(40)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202537.jpg" width="250px" onclick="openModal();currentSlide(41)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202559.jpg" width="250px" onclick="openModal();currentSlide(42)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202613.jpg" width="250px" onclick="openModal();currentSlide(43)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202652.jpg" width="250px" onclick="openModal();currentSlide(44)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202638.jpg" width="250px" onclick="openModal();currentSlide(45)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202708.jpg" width="250px" onclick="openModal();currentSlide(46)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202731.jpg" width="250px" onclick="openModal();currentSlide(47)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202746.jpg" width="250px" onclick="openModal();currentSlide(48)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202759.jpg" width="250px" onclick="openModal();currentSlide(49)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202816.jpg" width="250px" onclick="openModal();currentSlide(50)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202832.jpg" width="250px" onclick="openModal();currentSlide(51)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202927.jpg" width="250px" onclick="openModal();currentSlide(52)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG_20210111_202855.jpg" width="250px" onclick="openModal();currentSlide(53)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG20210111190544.jpg"   width="250px" onclick="openModal();currentSlide(54)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG20210111191025.jpg"   width="250px" onclick="openModal();currentSlide(55)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG20210111191626.jpg"   width="250px" onclick="openModal();currentSlide(56)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG20210111191942.jpg"   width="250px" onclick="openModal();currentSlide(57)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG20210111192026.jpg"   width="250px" onclick="openModal();currentSlide(58)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG20210111192123.jpg"   width="250px" onclick="openModal();currentSlide(59)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG20210111192207.jpg"   width="250px" onclick="openModal();currentSlide(60)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG20210111192224.jpg"   width="250px" onclick="openModal();currentSlide(61)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/IMG20210111191626.jpg"   width="250px" onclick="openModal();currentSlide(62)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200338-min-min.jpg" width="250px" onclick="openModal();currentSlide(1)"  class="hover-shadow"></div>                        
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200404-min-min.jpg" width="250px" onclick="openModal();currentSlide(2)"  class="hover-shadow"></div>                        
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200421-min-min.jpg" width="250px" onclick="openModal();currentSlide(3)"  class="hover-shadow"></div>                       
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200444-min-min.jpg" width="250px" onclick="openModal();currentSlide(4)"  class="hover-shadow"></div>                        
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201013-min-min.jpg" width="250px" onclick="openModal();currentSlide(5)"  class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200506-min-min.jpg" width="250px" onclick="openModal();currentSlide(6)"  class="hover-shadow"></div>                        
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200718-min-min.jpg" width="250px" onclick="openModal();currentSlide(7)"  class="hover-shadow"></div>                       
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200743-min-min.jpg" width="250px" onclick="openModal();currentSlide(8)"  class="hover-shadow"></div>                       
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200752-min-min.jpg" width="250px" onclick="openModal();currentSlide(9)"  class="hover-shadow"></div>                        
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200809-min-min.jpg" width="250px" onclick="openModal();currentSlide(10)" class="hover-shadow"></div>                        
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200830-min-min.jpg" width="250px" onclick="openModal();currentSlide(11)" class="hover-shadow"></div>                        
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200852-min-min.jpg" width="250px" onclick="openModal();currentSlide(12)" class="hover-shadow"></div>                       
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200959-min-min.jpg" width="250px" onclick="openModal();currentSlide(13)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201026-min-min.jpg" width="250px" onclick="openModal();currentSlide(14)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201039-min-min.jpg" width="250px" onclick="openModal();currentSlide(15)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201051-min-min.jpg" width="250px" onclick="openModal();currentSlide(16)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201132-min-min.jpg" width="250px" onclick="openModal();currentSlide(17)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201233-min.jpg" width="250px" onclick="openModal();currentSlide(18)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201315-min.jpg" width="250px" onclick="openModal();currentSlide(19)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201327-min.jpg" width="250px" onclick="openModal();currentSlide(20)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201341-min.jpg" width="250px" onclick="openModal();currentSlide(21)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201403-min.jpg" width="250px" onclick="openModal();currentSlide(22)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201556-min.jpg" width="250px" onclick="openModal();currentSlide(23)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201621-min.jpg" width="250px" onclick="openModal();currentSlide(24)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201636-min.jpg" width="250px" onclick="openModal();currentSlide(25)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201649-min.jpg" width="250px" onclick="openModal();currentSlide(26)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201716-min.jpg" width="250px" onclick="openModal();currentSlide(27)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_201851-min.jpg" width="250px" onclick="openModal();currentSlide(28)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202036-min.jpg" width="250px" onclick="openModal();currentSlide(29)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202110-min.jpg" width="250px" onclick="openModal();currentSlide(30)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202136-min.jpg" width="250px" onclick="openModal();currentSlide(31)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202227-min.jpg" width="250px" onclick="openModal();currentSlide(32)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202158-min.jpg" width="250px" onclick="openModal();currentSlide(33)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202250-min.jpg" width="250px" onclick="openModal();currentSlide(34)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202333-min.jpg" width="250px" onclick="openModal();currentSlide(35)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202350-min.jpg" width="250px" onclick="openModal();currentSlide(36)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202415-min.jpg" width="250px" onclick="openModal();currentSlide(37)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202437-min.jpg" width="250px" onclick="openModal();currentSlide(38)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202459-min.jpg" width="250px" onclick="openModal();currentSlide(39)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202524-min.jpg" width="250px" onclick="openModal();currentSlide(40)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202537-min.jpg" width="250px" onclick="openModal();currentSlide(41)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202559-min.jpg" width="250px" onclick="openModal();currentSlide(42)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202613-min.jpg" width="250px" onclick="openModal();currentSlide(43)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202652-min.jpg" width="250px" onclick="openModal();currentSlide(44)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202638-min.jpg" width="250px" onclick="openModal();currentSlide(45)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202708-min.jpg" width="250px" onclick="openModal();currentSlide(46)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202731-min.jpg" width="250px" onclick="openModal();currentSlide(47)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202746-min.jpg" width="250px" onclick="openModal();currentSlide(48)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202759-min.jpg" width="250px" onclick="openModal();currentSlide(49)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202816-min.jpg" width="250px" onclick="openModal();currentSlide(50)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202832-min.jpg" width="250px" onclick="openModal();currentSlide(51)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202927-min.jpg" width="250px" onclick="openModal();currentSlide(52)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_202855-min.jpg" width="250px" onclick="openModal();currentSlide(53)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG20210111190544-min.jpg"   width="250px" onclick="openModal();currentSlide(54)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG20210111191025-min.jpg"   width="250px" onclick="openModal();currentSlide(55)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG20210111191626-min.jpg"   width="250px" onclick="openModal();currentSlide(56)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG20210111191942-min.jpg"   width="250px" onclick="openModal();currentSlide(57)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG20210111192026-min.jpg"   width="250px" onclick="openModal();currentSlide(58)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG20210111192123-min.jpg"   width="250px" onclick="openModal();currentSlide(59)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG20210111192207-min.jpg"   width="250px" onclick="openModal();currentSlide(60)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG20210111192224-min.jpg"   width="250px" onclick="openModal();currentSlide(61)" class="hover-shadow"></div>
+                        <div class="column"><img src="doodles/thumb2/IMG20210111191626-min.jpg"   width="250px" onclick="openModal();currentSlide(62)" class="hover-shadow"></div>
                         
                   </div>
                 
@@ -163,7 +163,7 @@
                             <div class="caption-container">
                               <p id="caption"></p>
                             </div>
-                            <!-- Thumbnail image controls -->
+                            <!-- thumb2nail image controls -->
                             
                             <script src="js/lightbox.js"></script>
                             

@@ -23,6 +23,11 @@
    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
    <![endif]-->
+
+   <script src="js/tetris.js" charset="utf-8"></script>
+   <link rel="stylesheet" href="style.css"></link>
+   
+
    </head>
    <body id="inner_page" class="inner_page">
       <!-- header -->
@@ -71,5 +76,7 @@
            </div>
         </div>
 
+
+        
       </header>
       <!-- end header -->
