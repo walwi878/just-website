@@ -49,5 +49,6 @@
       <script src="js/ekko-lightbox.js"></script>
       <script src="js/custom.js"></script>
       <script src="js/scroll.js"></script>
+      <script src="js/tetris.js" charset="utf-8"></script>
    </body>
 </html>

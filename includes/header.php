@@ -25,7 +25,7 @@
    <![endif]-->
 
    <script src="js/tetris.js" charset="utf-8"></script>
-   <link rel="stylesheet" href="style.css"></link>
+   
    
 
    </head>
