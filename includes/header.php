@@ -64,7 +64,7 @@
                                     <a class="nav-link color-grey-hover" href="blog.php">BLOG</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link color-grey-hover barcode" href="contact.php">CONTACT                    </a>
+                                    <a class="nav-link color-grey-hover barcode" href="about.php#contact">CONTACT                    </a>
                                  </li>
                               </ul>
                            </div>

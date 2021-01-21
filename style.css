@@ -16,17 +16,30 @@
 
 
 
+
 .grid {
   width: 200px;
   height: 400px;
   display: flex;
   flex-wrap: wrap;
   background-color: yellow;
+  margin-left: auto;
+  border:1px solid darken(#f0f0f0,20);
+    box-shadow:0 0 200px 0 rgb(212, 130, 6);
+}
+
+.button_text {
+    
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #111428;
 }
 
 .grid div {
   height: 20px;
   width: 20px;
+  border:1px solid darken(#f0f0f0,20);
 }
 
 .tetromino {
@@ -36,11 +49,12 @@
 
 .mini-grid {
   margin-left: 50px;
-  width: 80px;
-  height: 80px;
+  width: 80px;         /* change to increase width of mini-viewer */
+  height: 160px;
   display: flex;
   flex-wrap: wrap;
   background-color: yellow;
+  margin-right: auto;
 }
 
 .mini-grid div {
