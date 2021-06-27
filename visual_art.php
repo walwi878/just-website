@@ -21,7 +21,7 @@
                       <br><br></p>
                       <!-- <input type="image" src="doodles/IMG_20210111_200313.jpg" class="img-responsive" width="250px"  onclick="location.href='code.php';" /> -->
                       <!-- <img id="myImg" src="doodles/IMG_20210111_200313.jpg" alt="This is a test." width="250px"/>  -->
-                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200338-min-min.jpg" width="250px" onclick="openModal();currentSlide(1)"  class="hover-shadow"></div>                        
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200338-min-min.jpg" width="250px"   </div>                        
                         <div class="column"><img src="doodles/thumb2/IMG_20210111_200404-min-min.jpg" width="250px" onclick="openModal();currentSlide(2)"  class="hover-shadow"></div>                        
                         <div class="column"><img src="doodles/thumb2/IMG_20210111_200421-min-min.jpg" width="250px" onclick="openModal();currentSlide(3)"  class="hover-shadow"></div>                       
                         <div class="column"><img src="doodles/thumb2/IMG_20210111_200444-min-min.jpg" width="250px" onclick="openModal();currentSlide(4)"  class="hover-shadow"></div>                        
@@ -82,7 +82,6 @@
                         <div class="column"><img src="doodles/thumb2/IMG20210111192123-min.jpg"   width="250px" onclick="openModal();currentSlide(59)" class="hover-shadow"></div>
                         <div class="column"><img src="doodles/thumb2/IMG20210111192207-min.jpg"   width="250px" onclick="openModal();currentSlide(60)" class="hover-shadow"></div>
                         <div class="column"><img src="doodles/thumb2/IMG20210111192224-min.jpg"   width="250px" onclick="openModal();currentSlide(61)" class="hover-shadow"></div>
-                        <div class="column"><img src="doodles/thumb2/IMG20210111191626-min.jpg"   width="250px" onclick="openModal();currentSlide(62)" class="hover-shadow"></div>
                         
                   </div>
                 
@@ -153,7 +152,6 @@
                             <div class="mySlides"><img src="doodles/IMG20210111192123.jpg"   style="width:50%"></div>
                             <div class="mySlides"><img src="doodles/IMG20210111192207.jpg"   style="width:50%"></div>
                             <div class="mySlides"><img src="doodles/IMG20210111192224.jpg"   style="width:50%"></div>
-                            <div class="mySlides"><img src="doodles/IMG20210111191626.jpg"   style="width:50%"></div>
 
                             <!-- Next/previous controls -->
                             <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

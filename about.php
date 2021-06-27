@@ -22,7 +22,7 @@
                      I studied Computer Science and Neuroscience at The University of Otago, and currently I’m doing a Masters 
                      in Computer Science at Victoria University of Wellington.   
                      <br><br>
-                     I like working in various development fields, and now I'm focussing on databases, backend, and web development.    
+                     I like working in various fields, and now I'm focussing on databases, backend, and web development.    
                   </p>
                
                   <u class="barcode"><a  href="https://www.dropbox.com/scl/fi/os6934qa9jklaywxymiwn/William-Wallace-CV-December-2020.docx?dl=0&rlkey=zc0srrbtgvvajlhb7gc6jczue">DOWNLOAD RESUME</a></u>

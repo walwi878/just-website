@@ -23,7 +23,8 @@
    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
    <![endif]-->
-
+   <link rel="stylesheet" href="prism.css" type="text/css">
+   <script  src="prism.js" async defer ></script>
    <script src="js/tetris.js" charset="utf-8"></script>
    
    
@@ -45,6 +46,7 @@
                </div>
                <div class="col-lg-10 site_information">
                   <div class="full">
+                     
                      <div class="main_menu">
                         <nav class="navbar navbar-inverse navbar-toggleable-md">
                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#cloapediamenu" aria-controls="cloapediamenu" aria-expanded="false" aria-label="Toggle navigation">
@@ -58,7 +60,7 @@
                                     <a class="nav-link color-aqua-hover" href="about.php">ABOUT</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link color-aqua-hover" href="coaching.php">PROJECTS</a>
+                                    <a class="nav-link color-aqua-hover" href="projects.php">PROJECTS</a>
                                  </li>
                                  <li class="nav-item">
                                     <a class="nav-link color-grey-hover" href="blog.php">BLOG</a>

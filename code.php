@@ -241,7 +241,9 @@
             
             
             <br><div class="mini-grid">
+               <h4 class="text_align_center"><span id="gameover" class="barcode text_align_center"> </span></h4>
                <h4>Score:<span id="score"> 0</span></h4>
+               <h4>Level:<span id="level"> 1</span></h4>
                <div></div>
                <div></div>
                <div></div>
@@ -260,6 +262,8 @@
                <div></div>
                <br><br><br><br><br>
                <button id="start-button" class="button_text">Start/Pause</button>
+               <button id="retry-button" class="button_text" >Retry</button>
+               
                </div>
          
          

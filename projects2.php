@@ -25,17 +25,16 @@
             </div>
             <div class="row">
 
-              <div class="col-md-4 text_align_center">
+            <div class="col-md-4 text_align_center">
                  <div class="cours">
-                  <input type="image" src="images/cour1.png" width="200px" class="img-responsive" onclick="location.href='code.php';" />
-                 </div>
-                 <h3>Coding</h3>
-                 <p>On my good days, I find answers to problems that I create for myself. These problems primarily involve machine learning, data mining, and general back-end skills.<br><br></p>
+                 <p class="p3">06/01/2021</p>
+                 <iframe src="https://open.spotify.com/embed/album/6gDtROOIYa6OQxwhDNkDRM" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                 <p class="p4">The kind of meta angst you never knew you needed in your life.  </p>
               </div>  
 
               <div class="col-md-4 text_align_center">
                  <div class="cours">
-                  <input type="image" src="images/cour2.png" width="200px" class="img-responsive" onclick="location.href='design.php';" />
+                 <iframe src="https://open.spotify.com/embed/album/0z0JtBRlABbJfRKOICEn4m" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                  </div>
                  <h3>Design</h3>
                  <p>Since the start of 2020 I have been using Blender to create realistic 3D models and animations as a hobby. Check out some of my Blender renders here. </p>
@@ -43,15 +42,15 @@
 
               <div class="col-md-4 text_align_center">
                  <div class="cours">
-                  <input type="image" src="images/jazz-crop.png" width="200px" class="img-responsive" onclick="location.href='music.php';" />
+                 <iframe src="https://open.spotify.com/embed/album/2PfgptDcfJTFtoZIS3AukX" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                  </div>
-                 <h3>Music</h3>
-                 <p>Music is a big part of my life - I listen to it just about every day and I play it myself. Here are some of my reviews and compositions.</p>
+                 <h3>Music Recommendations</h3>
+                 <p>I listen to music just about every day and I play it myself. Here are some of my reviews, recommendations, and compositions.</p>
               </div> 
 
               <div class="col-md-4 text_align_center">
                   <div class="cours">
-                     <input type="image" src="images/typewriter.png" width="200px" class="img-responsive" onclick="location.href='writing.php';" />
+                  <iframe src="https://open.spotify.com/embed/album/5fVQB6vI2BiezkTxU0BJIr" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                   </div>
                   <h3>Writing</h3>
                   <p>I write sometimes. I'm still getting the hang of it, but here are some of my own works. </p>
@@ -59,7 +58,7 @@
 
                <div class="col-md-4 text_align_center">
                   <div class="cours">
-                     <input type="image" src="images/doodle.png" width="200px" class="img-responsive" onclick="location.href='visual_art.php';" />
+                  <iframe src="https://open.spotify.com/embed/album/1JxWnsOCOeYeAeDwInNww4" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                   </div>
                   <h3>Visual Diary</h3>
                   <p>I also like to doodle, paint and sculpt. I try not to take my artistic self too seriously.</p>
@@ -67,7 +66,7 @@
 
                <div class="col-md-4 text_align_center">
                   <div class="cours">
-                     <input type="image" src="images/brain.png" width="200px" class="img-responsive" onclick="location.href='blog.php';" />
+                  <iframe src="https://open.spotify.com/embed/album/0SUnw24DP3YwhbIqYv0XAf" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                   </div>
                   <h3>Blog</h3>
                   <p>Here are some of my musings. Since these are linked to my personal notes app, they're a fairly unfiltered look into what I think about from time to time.<br><br><br></p>

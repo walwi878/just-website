@@ -24,9 +24,17 @@
   flex-wrap: wrap;
   background-color: yellow;
   margin-left: auto;
-  border:1px solid darken(#f0f0f0,20);
-    box-shadow:0 0 200px 0 rgb(212, 130, 6);
+  border:1px black;
+  box-shadow:0 0 200px 0 rgb(212, 130, 6);
 }
+
+code {
+    font-family: Consolas,"courier new";
+    color: crimson;
+    background-color: #f1f1f1;
+    padding: 2px;
+    font-size: 105%;
+  }
 
 .button_text {
     
@@ -39,7 +47,7 @@
 .grid div {
   height: 20px;
   width: 20px;
-  border:1px solid darken(#f0f0f0,20);
+  border:1px black;
 }
 
 .tetromino {
@@ -50,7 +58,7 @@
 .mini-grid {
   margin-left: 50px;
   width: 80px;         /* change to increase width of mini-viewer */
-  height: 160px;
+  height: 200px;
   display: flex;
   flex-wrap: wrap;
   background-color: yellow;
@@ -685,6 +693,19 @@ hr.invis {
     text-align: left;
     
     font-size: 12px;
+    
+    color: #000000;
+    font-weight: 800;
+    
+}
+
+.p3-5{
+    width: 100%;
+    float: left;
+    vertical-align: left;
+    text-align: left;
+    
+    font-size: 14px;
     
     color: #000000;
     font-weight: 800;

@@ -61,7 +61,7 @@
                                     <a class="nav-link color-aqua-hover" href="about.php">ABOUT</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link color-aqua-hover" href="coaching.php">PROJECTS</a>
+                                    <a class="nav-link color-aqua-hover" href="projects.php">PROJECTS</a>
                                  </li>
                                  <li class="nav-item">
                                     <a class="nav-link color-grey-hover" href="blog.php">BLOG</a>
@@ -102,7 +102,7 @@
                   </div>
                </div>
                <div class="container_index">
-                  <a class="column_button blue_bt" href="coaching.php">VIEW MY PROJECTS</a>
+                  <a class="column_button blue_bt" href="projects.php">VIEW MY PROJECTS</a>
                   <a class="column_button blue_bt barcode" href="about.php">  LEARN ABOUT ME  </a>
                </div>
           </div>
