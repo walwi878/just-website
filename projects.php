@@ -70,7 +70,7 @@
                      <input type="image" src="images/brain.png" width="200px" class="img-responsive" onclick="location.href='blog.php';" />
                   </div>
                   <h3>Blog</h3>
-                  <p>Here are some of my musings. Since these are linked to my personal notes app, they're a fairly unfiltered look into what I think about from time to time.<br><br><br></p>
+                  <p>Here are some of my musings, projects, and photo galleries. <br><br><br></p>
                </div>
 
             </div>

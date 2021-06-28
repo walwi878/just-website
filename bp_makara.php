@@ -47,13 +47,13 @@
                           <span class="close cursor" onclick="closeModal()">&times;</span>
                           <div class="modal-content">
 
-                            <div class="mySlides"><img src="images/blog_images/makara-1.jpg"></div>
-                            <div class="mySlides"><img src="images/blog_images/makara-2.jpg"></div>                            
-                            <div class="mySlides"><img src="images/blog_images/makara-3.jpg"></div>                            
-                            <div class="mySlides"><img src="images/blog_images/makara-4.jpg"></div>  
-                            <div class="mySlides"><img src="images/blog_images/makara-5.jpg"></div>    
-                            <div class="mySlides"><img src="images/blog_images/makara-6.jpg"></div>    
-                            <div class="mySlides"><img src="images/blog_images/makara-7.jpg"></div>         
+                            <div class="mySlides"><img src="images/blog_images/makara-1.jpg" width="1200px"></div>
+                            <div class="mySlides"><img src="images/blog_images/makara-2.jpg" width="1200px"></div>                            
+                            <div class="mySlides"><img src="images/blog_images/makara-3.jpg" width="1200px"></div>                            
+                            <div class="mySlides"><img src="images/blog_images/makara-4.jpg" width="1200px"></div>  
+                            <div class="mySlides"><img src="images/blog_images/makara-5.jpg" width="1200px"></div>    
+                            <div class="mySlides"><img src="images/blog_images/makara-6.jpg" width="1200px"></div>    
+                            <div class="mySlides"><img src="images/blog_images/makara-7.jpg" width="1200px"></div>         
                             <!-- Next/previous controls -->
                             <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                             <a class="next" onclick="plusSlides(1)">&#10095;</a>

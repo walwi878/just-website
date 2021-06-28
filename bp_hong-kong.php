@@ -19,13 +19,15 @@
             <div class="col-lg-12 text_align_center">
                <div class="full large2">
                   
-                  <p class="large2">Hong Kong Exchange: My Thoughts
+                  <p class="large2">Hong Kong University: Thoughts on a attending a Top 25 Rated University 
                      
                   </p>
                   <p class="p2">
                      When I used to think of Hong Kong, I would think "business capital", "skyline", and maybe at a stretch "British colony".
                      I didn't have many expectations when I went to Hong Kong - naturally I like surprises and I enjoy the feeling of discovering
-                     something for the first time.    
+                     something for the first time. So when I got confirmation that I could go to the University of Hong Kong (HKU), a university that was in the top 25 rated universities in the world for computer science I was curious about how things would be different. 
+                     <br><br> 
+  
                   </p>
                </div>
             </div>
