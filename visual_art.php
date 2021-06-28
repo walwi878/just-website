@@ -21,7 +21,7 @@
                       <br><br></p>
                       <!-- <input type="image" src="doodles/IMG_20210111_200313.jpg" class="img-responsive" width="250px"  onclick="location.href='code.php';" /> -->
                       <!-- <img id="myImg" src="doodles/IMG_20210111_200313.jpg" alt="This is a test." width="250px"/>  -->
-                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200338-min-min.jpg" width="250px"   </div>                        
+                        <div class="column"><img src="doodles/thumb2/IMG_20210111_200338-min-min.jpg" width="250px" onclick="openModal();currentSlide(1)"  class="hover-shadow"> </div>                        
                         <div class="column"><img src="doodles/thumb2/IMG_20210111_200404-min-min.jpg" width="250px" onclick="openModal();currentSlide(2)"  class="hover-shadow"></div>                        
                         <div class="column"><img src="doodles/thumb2/IMG_20210111_200421-min-min.jpg" width="250px" onclick="openModal();currentSlide(3)"  class="hover-shadow"></div>                       
                         <div class="column"><img src="doodles/thumb2/IMG_20210111_200444-min-min.jpg" width="250px" onclick="openModal();currentSlide(4)"  class="hover-shadow"></div>                        
