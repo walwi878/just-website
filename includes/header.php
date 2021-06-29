@@ -57,7 +57,7 @@
                               <ul class="navbar-nav" >
                                  
                                  <li class="nav-item">
-                                    <a class="nav-link color-aqua-hover" href="about.php">ABOUT</a>
+                                    <a class="nav-link color-aqua-hover" href="about.php">ABUT</a>
                                  </li>
                                  <li class="nav-item">
                                     <a class="nav-link color-aqua-hover" href="projects.php">PROJECTS</a>
