@@ -341,16 +341,15 @@ document.addEventListener('DOMContentLoaded', () => {
     scoreDisplay.innerHTML = ' 0'
     displaySquares.forEach(square => {
       square.classList.remove('block')
-      square.style.backgroundColor = ''
+      square.style.backgroundImage = 'none'
     })
     for (let i = 0; i < GRID_SIZE; i +=GRID_WIDTH) {
       const row = [i, i+1, i+2, i+3, i+4, i+5, i+6, i+7, i+8, i+9]
       row.forEach(index => {
         squares[index].classList.remove('block')
         squares[index].classList.remove('block2')
-        squares[index].classList.remove('block3')
         squares[index].classList.remove('tetromino')
-        squares[index].style.backgroundColor = ''
+        squares[index].style.backgroundImage = 'none'
       })
     }
   }
