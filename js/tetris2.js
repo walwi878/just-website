@@ -330,7 +330,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 
-/*
+
     
   function cleargrid(){
     score = 0
@@ -357,14 +357,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
   retryBtn.addEventListener('click', () => {
       cleargrid()
+      
       nextRandom = Math.floor(Math.random()*theTetrominoes.length)
       current = theTetrominoes[random][currentRotation]
+      
+      
       currentPosition = 4
       draw()
       displayShape()
-  })
 
-  */
+  })
   
     //Styling eventListeners
     hamburgerBtn.addEventListener('click', () => {
