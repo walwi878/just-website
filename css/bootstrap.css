@@ -911,6 +911,13 @@ pre code {
   margin-left: 0;
 }
 
+.valign {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  /* vendor prefixes omitted due to brevity */
+}
+
 .no-gutters > .col,
 .no-gutters > [class*="col-"] {
   padding-right: 0;
@@ -4405,6 +4412,13 @@ tbody.collapse.show {
 .navbar-inverse .navbar-nav .nav-link.open,
 .navbar-inverse .navbar-nav .nav-link.active {
   color: white;
+}
+
+.login{
+  position:relative;
+  float:left;
+  top:15%;
+  left:90%;
 }
 
 .navbar-inverse .navbar-toggler {

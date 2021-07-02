@@ -445,6 +445,12 @@ code {
     display: flex;
 }
 
+.container {
+    max-width: 600px;
+    padding: 0 3rem;
+    margin: auto;
+    overflow: hidden;
+  }
 
   /*Start modal CSS from W# for lightbox*/
 

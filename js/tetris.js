@@ -107,6 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
     currentPosition += width
     draw()
     freeze()
+
   }
 
   //freeze function
@@ -124,6 +125,7 @@ document.addEventListener('DOMContentLoaded', () => {
       gameOver()  
     }
   }
+  freeze()
 
   //move the tetromino left, unless is at the edge or there is a blockage
   function moveLeft() {
@@ -219,13 +221,15 @@ document.addEventListener('DOMContentLoaded', () => {
   //add functionality to the button
   startBtn.addEventListener('click', () => {
     if (timerId) {
-      gameoverDisplay.innerHTML = ' PAUSED'
+      //gameoverDisplay.innerHTML = ' PAUSED'
       clearInterval(timerId)
+      //timerId = setInterval(moveDown, 10000000)
       timerId = null
     } else {
-      gameoverDisplay.innerHTML = ' '
+      //gameoverDisplay.innerHTML = ' '
       draw()
       timerId = setInterval(moveDown, 1000)
+      nextRandom = Math.floor(Math.random() * theTetrominoes.length)
       displayShape()
     }
   })
@@ -328,6 +332,12 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     gameOver()
   }
-  
+
+  hamburgerBtn.addEventListener('click', () => {
+    menu.style.display = 'flex'
+  })
+  span.addEventListener('click', () => {
+    menu.style.display = 'none'
+  })
 
 })
