@@ -88,17 +88,14 @@ header-tetris {
     margin-top: 3rem;
 }
 
-body-tetris {
+body-tetris, 
+p-tetris  {
     font-family: "Montserrat", sans-serif;
     font-size: 1.6rem;
     margin: auto;
     max-width: 60rem;
     color: #d8edea;
-    background: radial-gradient(
-      circle,
-      rgba(175, 196, 174, 1) 0%,
-      rgba(104, 204, 191, 1) 89%,
-      rgba(94, 191, 178, 1) 100%
+    
     );
   }
 
@@ -480,6 +477,12 @@ code {
   .column2 {
     float: center;
     width: 37%;
+    padding-bottom: 20px;
+    
+  }
+  .column2-design {
+    float: left;
+    width: 50%;
     padding-bottom: 20px;
     
   }
