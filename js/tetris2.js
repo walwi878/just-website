@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const grid = createGrid();
     let squares = Array.from(grid.querySelectorAll('div-tetris'))
     const startBtn = document.querySelector('.button')
+    const retryBtn = document.querySelector('.buttonretry')
     //const retryBtn = document.querySelector('.buttonretry')
     const hamburgerBtn = document.querySelector('.toggler')
     const menu = document.querySelector('.menu')
@@ -144,8 +145,10 @@ document.addEventListener('DOMContentLoaded', () => {
       if (timerId) {
         clearInterval(timerId)
         timerId = null
+        scoreDisplay.innerHTML = 'paused'
       } else {
         draw()
+        scoreDisplay.innerHTML = score
         timerId = setInterval(moveDown, 1000)
         //nextRandom = Math.floor(Math.random() * theTetrominoes.length)
         displayShape()
@@ -228,17 +231,49 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
     freeze()
+
+
+
+    
+  ///FIX ROTATION OF TETROMINOS AT THE EDGE 
+  function isAtRight() {
+    return current.some(index=> (currentPosition + index + 1) % width === 0)  
+  }
   
-    //Rotate the Tetromino
-    function rotate() {
-      undraw()
-      currentRotation++
-      if (currentRotation === current.length) {
-        currentRotation = 0
-      }
-      current = theTetrominoes[random][currentRotation]
-      draw()
+  function isAtLeft() {
+    return current.some(index=> (currentPosition + index) % width === 0)
+  }
+  
+  function checkRotatedPosition(P){
+    P = P || currentPosition       //get current position.  Then, check if the piece is near the left side.
+    if ((P+1) % width < 4) {         //add 1 because the position index can be 1 less than where the piece is (with how they are indexed).     
+      if (isAtRight()){            //use actual position to check if it's flipped over to right side
+        currentPosition += 1    //if so, add one to wrap it back around
+        checkRotatedPosition(P) //check again.  Pass position from start, since long block might need to move more.
+        }
     }
+    else if (P % width > 5) {
+      if (isAtLeft()){
+        currentPosition -= 1
+      checkRotatedPosition(P)
+      }
+    }
+  }
+  
+  //rotate the tetromino
+  function rotate() {
+    undraw()
+    currentRotation ++
+    if(currentRotation === current.length) { //if the current rotation gets to 4, make it go back to 0
+      currentRotation = 0
+    }
+    current = theTetrominoes[random][currentRotation]
+    checkRotatedPosition()
+    draw()
+  }
+  /////////
+
+  
   
     //Game Over
     function gameOver() {
@@ -293,6 +328,43 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       }
     }
+
+
+/*
+    
+  function cleargrid(){
+    score = 0
+    lines = 0
+    
+    
+    linesDisplay.innerHTML = ' 0'
+    scoreDisplay.innerHTML = ' 0'
+    displaySquares.forEach(square => {
+      square.classList.remove('block')
+      square.style.backgroundColor = ''
+    })
+    for (let i = 0; i < GRID_SIZE; i +=GRID_WIDTH) {
+      const row = [i, i+1, i+2, i+3, i+4, i+5, i+6, i+7, i+8, i+9]
+      row.forEach(index => {
+        squares[index].classList.remove('block')
+        squares[index].classList.remove('block2')
+        squares[index].classList.remove('block3')
+        squares[index].classList.remove('tetromino')
+        squares[index].style.backgroundColor = ''
+      })
+    }
+  }
+
+  retryBtn.addEventListener('click', () => {
+      cleargrid()
+      nextRandom = Math.floor(Math.random()*theTetrominoes.length)
+      current = theTetrominoes[random][currentRotation]
+      currentPosition = 4
+      draw()
+      displayShape()
+  })
+
+  */
   
     //Styling eventListeners
     hamburgerBtn.addEventListener('click', () => {
