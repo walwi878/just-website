@@ -13,7 +13,7 @@
                               <li><p class="white">Wellington, New Zealand<br><br></p></li>
 
                               <div class="copyright">
-                                 <p">Copyright &copy; William Wallace 2022<br><br></p>
+                                 <p">Copyright &copy; William Wallace <script>document.write(new Date().getFullYear())</script><br><br></p>
                                </div>
                            </ul>
                      </div>
